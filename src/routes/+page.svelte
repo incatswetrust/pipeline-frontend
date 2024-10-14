@@ -7,7 +7,6 @@
 
     
 
-    //setInterval(updateCountdown, 1000);
   </script>
   
   <div class="hero bg-base-200 min-h-screen">

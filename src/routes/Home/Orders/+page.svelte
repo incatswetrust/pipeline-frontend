@@ -1,5 +1,11 @@
 <script lang="ts">
     import Orders from "../../../Views/Orders.svelte";
+    import { browser } from '$app/environment';
+    import { goto } from '$app/navigation';
+    if (browser) {
+      goto('/');
+    }
+
 </script>
 
 <div style="margin-left: 40px; margin-right: 40px">
