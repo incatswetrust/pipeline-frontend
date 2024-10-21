@@ -18,7 +18,7 @@
 
   function skip(){
     if(browser){
-      goto("/Home/Customers");
+      goto("/App/Customers");
     }
   }
 </script>
