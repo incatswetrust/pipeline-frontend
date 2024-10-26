@@ -1,7 +1,7 @@
 <div class="min-h-screen">
     <div class="grid grid-cols-3 gap-8">
       <!-- Order Form (1/3) -->
-      <div class="col-span-1 space-y-4">
+      <div class="col-span-1 space-y-4 p-6">
         
         <!-- Name Input -->
         <div class="form-control">
@@ -44,7 +44,7 @@
       </div>
   
       <!-- Terms of Reference Editor (2/3) -->
-      <div class="col-span-2 space-y-4">
+      <div class="col-span-2 space-y-4 p-6">
         <h2 class="label-text font-bold">Terms of reference editor</h2>
         <textarea class="textarea textarea-bordered h-96 w-full">
           # Pipeline
